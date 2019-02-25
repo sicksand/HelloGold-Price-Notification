@@ -31,4 +31,4 @@ HelloGold price at your desktop (Mac/Windows) . A notification for every minute 
 1. All logo and text of HelloGold are belong to HelloGold Sdn Bhd.
 
 ## Donate
-Like my work? Donate as you like. Thank you in advance. [![Donate me](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png)(https://paypal.me/shafiqmustapa?locale.x=en_US)
+Like my work? Donate as you like. Thank you in advance. [![Donate me](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png)](https://paypal.me/shafiqmustapa?locale.x=en_US)
