@@ -5,7 +5,7 @@ HelloGold price at your desktop (Mac/Windows) . A notification for every minute 
 ![windows notification](https://image.prntscr.com/image/EuWI_ltxSjSNcEatbTDuIw.png)
 
 
-### Pre-requisites
+### Prerequisite
 1. Know how to PowerShell
 
 ### Installation
@@ -18,7 +18,7 @@ HelloGold price at your desktop (Mac/Windows) . A notification for every minute 
 ## MacOS / OSX
 ![osx notification](https://i.imgur.com/ge9FOUp.png)
 
-### Pre-requisites
+### Prerequisite
 1. Know how to bash scripting
 
 ### Installation
